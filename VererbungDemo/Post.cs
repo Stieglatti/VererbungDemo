@@ -20,7 +20,7 @@ namespace VererbungDemo
             ID = 0;
             Title = " Mein erster Post";
             IsPublic = true;
-            SendByUserName = "Marvin St";
+            SendByUserName = "Marvin Stiegler";
         }
 
         public Post(string title, bool isPublic, string sendByUsername)
