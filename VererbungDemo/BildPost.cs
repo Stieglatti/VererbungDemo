@@ -5,6 +5,7 @@ using System.Text;
 namespace VererbungDemo
 {
     // BildPost erbt von Post und fügt eine Eigenschaft (ImageURL) und zwei Konstruktoren hinzu
+    
 
     internal class BildPost : Post
     {

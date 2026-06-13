@@ -7,7 +7,7 @@ namespace VererbungDemo
         static void Main(string[] args)
         {
 
-            Post post1 = new Post("Meine neuen Schuhe sind geil!!",true,"Marvin St");
+            Post post1 = new Post("Meine neuen Nike Schuhe sind geil!!",true,"Marvin St");
             Console.WriteLine("Post ToSring Methode:{0}" , post1.ToString());
             
             BildPost bildPost1 = new BildPost("hier sind sie!", "Marvin St", "https://bild.de/meinescuhe", true);
