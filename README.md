@@ -1,6 +1,6 @@
 # VererbungDemo
 
-Mein erstes C#-Projekt zum Lernen von Vererbung.
+C#-Projekt zum Lernen von Vererbung.
 
 ## Themen
 
